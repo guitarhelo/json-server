@@ -1,0 +1,266 @@
+{
+"status": "ok",
+"totalResults": 4970,
+-"articles": [
+-{
+-"source": {
+"id": "the-new-york-times",
+"name": "The New York Times"
+},
+"author": "Daisuke Wakabayashi",
+"title": "Alphabet Board Investigates Sexual Misconduct Accusations",
+"description": "To defend against shareholder lawsuits over its handling of sexual harassment, Alphabet, the parent of Google, has hired a law firm and is investigating allegations involving executives.",
+"url": "https://www.nytimes.com/2019/11/06/technology/google-sexual-harassment-lawsuits.html",
+"urlToImage": "https://static01.nyt.com/images/2019/11/06/business/06google/06google-facebookJumbo.jpg",
+"publishedAt": "2019-11-07T01:34:48Z",
+"content": "As part of the inquiry, Cravaths lawyers have reached out to women who made accusations against Google executives, according to the documents. \r\nThe lawyers are also looking into relationships involving David Drummond, Alphabets chief legal officer and one of… [+1166 chars]"
+},
+-{
+-"source": {
+"id": "the-new-york-times",
+"name": "The New York Times"
+},
+"author": "Gail Collins",
+"title": "Trump, Um, Fails to Rally",
+"description": "Pop quiz: Who’s greater than George Washington?",
+"url": "https://www.nytimes.com/2019/11/06/opinion/kentucky-governor-race.html",
+"urlToImage": "https://static01.nyt.com/images/2019/11/06/opinion/06collinsWeb/06collinsWeb-facebookJumbo.jpg",
+"publishedAt": "2019-11-07T00:47:49Z",
+"content": "Message received, governor.\r\nBesides his attempt to convince the world that he had golden coattails, Trump pretty much gave Kentucky his standard-model rally. He quoted mega-compliments from the great Lou Dobbs, the Fox Business talking head who recently appe… [+2387 chars]"
+},
+-{
+-"source": {
+"id": "the-new-york-times",
+"name": "The New York Times"
+},
+"author": "Rick Rojas",
+"title": "Kentucky Governor Could Challenge Election Before State Legislature",
+"description": "Trailing Andy Beshear by about 5,000 votes, Gov. Matt Bevin is calling for a recanvass of ballots next week. A showdown between lawmakers could follow.",
+"url": "https://www.nytimes.com/2019/11/06/us/bevin-kentucky-recanvass.html",
+"urlToImage": "https://static01.nyt.com/images/2019/11/06/us/politics/06kentucky/06kentucky-facebookJumbo.jpg",
+"publishedAt": "2019-11-07T00:27:55Z",
+"content": "In turn, Mr. Beshear seized upon that weakness, putting teachers at the center of his campaign, including selecting a high school assistant principal, Jacqueline Coleman, to join his ticket as the candidate for lieutenant governor. \r\nThe election had an unusu… [+1790 chars]"
+},
+-{
+-"source": {
+"id": "the-wall-street-journal",
+"name": "The Wall Street Journal"
+},
+"author": null,
+"title": "Opinion: Has Warren's Medicare For All Wrecked the Left?",
+"description": "Democratic Presidential hopeful Elizabeth Warren's health-care plan let the cat out of the bag: Progressivism is just pie in the sky. Image: Yuri Gripas/Reuters",
+"url": "https://www.wsj.com/video/opinion-has-warren-medicare-for-all-wrecked-the-left/197CBF68-3F5E-4EC9-B0A5-F3AEF51CC253.html",
+"urlToImage": "http://m.wsj.net/video/20191106/110619opvidwlwarren/110619opvidwlwarren_1280x720.jpg",
+"publishedAt": "2019-11-07T00:26:58Z",
+"content": null
+},
+-{
+-"source": {
+"id": "the-new-york-times",
+"name": "The New York Times"
+},
+"author": "Agence France-Presse",
+"title": "Attack on Canadian Mining Company in Burkina Faso Kills 37",
+"description": "The attack, which also wounded 60 people, was the third deadly attack on the Semafo mining company in 15 months.",
+"url": "https://www.nytimes.com/2019/11/06/world/africa/burkina-mine-attack-canadian.html",
+"urlToImage": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+"publishedAt": "2019-11-07T00:19:43Z",
+"content": "Burkina Fasos government said the gunmen had conducted a complex attack, and that security officials were searching the area.\r\nIt was the third deadly attack on Semafo, which operates two mines in Burkina Faso, in 15 months.\r\nWe are actively working with all … [+492 chars]"
+},
+-{
+-"source": {
+"id": "the-wall-street-journal",
+"name": "The Wall Street Journal"
+},
+"author": null,
+"title": "Opinion: Colorado Voters Stood Up for Tax Refunds",
+"description": "Proposition CC would have affected the Taxpayer Bill of Rights in Colorado. However, the measure failed at the polls on November 5, 2019. Image: David Zalubowski/Associated Press",
+"url": "https://www.wsj.com/video/opinion-colorado-voters-stood-up-for-tax-refunds/B10CCB2F-A399-4490-B8A1-153A09A7FBC8.html",
+"urlToImage": "http://m.wsj.net/video/20191106/110619opvidcolorado2/110619opvidcolorado2_1280x720.jpg",
+"publishedAt": "2019-11-07T00:18:58Z",
+"content": null
+},
+-{
+-"source": {
+"id": "the-new-york-times",
+"name": "The New York Times"
+},
+"author": "Miriam Jordan",
+"title": "U.S. Must Provide Mental Health Services to Families Separated at Border",
+"description": "Under a “state-created danger” legal doctrine, a judge ordered the government to provide counseling and other services to compensate for trauma.",
+"url": "https://www.nytimes.com/2019/11/06/us/migrants-mental-health-court.html",
+"urlToImage": "https://static01.nyt.com/images/2019/11/06/us/06MIGRANTS-alt/06MIGRANTS-alt-facebookJumbo.jpg",
+"publishedAt": "2019-11-07T00:18:30Z",
+"content": "You cannot have a policy of deliberately trying to injure a family bond, he said. Cruelty cannot be part of an enforcement policy, and here it was the cornerstone of the policy.\r\nGovernment lawyers had argued that it could not be held liable for mental health… [+1348 chars]"
+},
+-{
+-"source": {
+"id": "the-new-york-times",
+"name": "The New York Times"
+},
+"author": "The Editorial Board",
+"title": "Eastern Europe’s Populist Scam",
+"description": "Demagogues like Hungary’s Viktor Orban denounce the European Union but corruptly exploit its farm subsidies.",
+"url": "https://www.nytimes.com/2019/11/06/opinion/eu-hungary-farm-subsidies.html",
+"urlToImage": "https://static01.nyt.com/images/2019/11/06/opinion/06farm/06farm-facebookJumbo.jpg",
+"publishedAt": "2019-11-07T00:04:27Z",
+"content": "And, of course, Hungary, where Mr. Orban arranged for political allies and family members to buy up land owned by the former Communist nation and to collect rich European Union subsidies on it. Then at political rallies, he assails the European Union for seek… [+1946 chars]"
+},
+-{
+-"source": {
+"id": "the-new-york-times",
+"name": "The New York Times"
+},
+"author": "Manohla Dargis",
+"title": "‘Last Christmas’ Review: Ho, Ho, Humbug",
+"description": "Emilia Clarke and Henry Golding star in a flatline of a romantic comedy.",
+"url": "https://www.nytimes.com/2019/11/06/movies/last-christmas-review.html",
+"urlToImage": "https://static01.nyt.com/images/2019/11/06/arts/00christmas/00christmas-facebookJumbo.jpg",
+"publishedAt": "2019-11-07T00:04:07Z",
+"content": "Boy Meets Girl, So What? Thats the title of a movie that Bertolt Brecht thought up when he was exiled in Hollywood in the 1940s. Its also an evergreen question, one that I crankily mutter whenever I watch another romantic comedy that tries to reanimate a subg… [+1468 chars]"
+},
+-{
+-"source": {
+"id": "the-new-york-times",
+"name": "The New York Times"
+},
+"author": "Nicholas Kristof",
+"title": "Don’t Let Trump Make You Numb to What’s Unacceptable",
+"description": "Our species has an ability to adapt. Now’s not the time.",
+"url": "https://www.nytimes.com/2019/11/06/opinion/trump-corruption.html",
+"urlToImage": "https://static01.nyt.com/images/2019/11/08/opinion/06kristofWeb/06kristofWeb-facebookJumbo.jpg",
+"publishedAt": "2019-11-07T00:00:53Z",
+"content": "Im not going to have time to go play golf, Trump said before his election. In fact, he has visited golf clubs approximately 224 times since taking office, including more than three months in total at Mar-a-Lago. These vacation trips have cost taxpayers more t… [+1884 chars]"
+},
+-{
+-"source": {
+"id": "the-new-york-times",
+"name": "The New York Times"
+},
+"author": "Nellie Bowles",
+"title": "Gert Boyle, 95, Dies; Sportswear Chief Billed as ‘One Tough Mother’",
+"description": "She took over her family’s company, Columbia Sportswear, when her husband died and saw it flourish, becoming its flinty public face in ads.",
+"url": "https://www.nytimes.com/2019/11/06/business/gert-boyle-dead.html",
+"urlToImage": "https://static01.nyt.com/images/2019/11/07/obituaries/06Boyle3/06Boyle3-facebookJumbo.jpg",
+"publishedAt": "2019-11-06T23:47:17Z",
+"content": "In announcing the opening of a flagship retail store, a print advertisement used just a picture of Ms. Boyles face her glasses down the bridge of her nose, a cigar burning in one hand, as she stared straight at the camera, unimpressed.\r\nThe tall, thin and blo… [+1329 chars]"
+},
+-{
+-"source": {
+"id": "the-new-york-times",
+"name": "The New York Times"
+},
+"author": "The Styles Desk",
+"title": "Kim Kardashian West and Kris Jenner (Plus Kanye West!) Talk About Their Empire, Jesus and Donald Trump",
+"description": "Candid talk about the multipronged Kardashian family business, from today at The New York Times DealBook Conference.",
+"url": "https://www.nytimes.com/2019/11/06/style/kim-kardashian-west-kris-jenner-kanye-west-video.html",
+"urlToImage": "https://static01.nyt.com/images/2019/11/06/business/06KIM-DEALBOOK-vid/06KIM-DEALBOOK-vid-facebookJumbo.jpg",
+"publishedAt": "2019-11-06T23:43:05Z",
+"content": "Now its a little bit more personal for me. If I have a paid post that comes in and I think, O.K., well this can fund x amount of people that are behind bars, that can help free them with simple legal fees that they just cant afford, then that would be worth i… [+1481 chars]"
+},
+-{
+-"source": {
+"id": "the-new-york-times",
+"name": "The New York Times"
+},
+"author": null,
+"title": "Facing Investigation, Giuliani Needed a Lawyer, but Firms Stayed Away - The New York Times",
+"description": "Facing Investigation, Giuliani Needed a Lawyer, but Firms Stayed Away The New York Times George Conway: Giuliani tweet 'by itself establishes' that Trump 'committed an impeachable offense' | TheHill The Hill Giuliani hires lawyers, Trump adds to communication…",
+"url": "https://www.nytimes.com/2019/11/06/nyregion/giuliani-trump-impeachment-lawyers.html",
+"urlToImage": "https://static01.nyt.com/images/2019/11/06/us/politics/06Giuliani/merlin_163964130_1ab4b1c1-991d-4105-be99-3a7c25ecdb22-facebookJumbo.jpg",
+"publishedAt": "2019-11-06T23:43:00Z",
+"content": "Soon after calling Mr. Giuliani to say that he might represent Mr. Cohen, Mr. Costello emailed Mr. Cohen and said, Rudy was thrilled and said this could not be a better situation for the President or you, noting that Mr. Giuliani knew and trusted Mr. Costello… [+1995 chars]"
+},
+-{
+-"source": {
+"id": "the-new-york-times",
+"name": "The New York Times"
+},
+"author": "Katharine Q. Seelye",
+"title": "Ray Jenkins, Newspaperman Who Covered Civil Rights Era, Dies at 89",
+"description": "He had a “ringside seat to history” in the South, befriending Martin Luther King and triggering a landmark First Amendment case that went to the Supreme Court.",
+"url": "https://www.nytimes.com/2019/11/06/business/media/ray-jenkins-dead.html",
+"urlToImage": "https://static01.nyt.com/images/2019/11/07/obituaries/05Jenkins1/05Jenkins1-facebookJumbo.jpg",
+"publishedAt": "2019-11-06T23:41:34Z",
+"content": "By then he had already won a Pulitzer Prize as a young journalist in the South, served as editorial page editor of The Baltimore Evening Sun, been named a Nieman fellow at Harvard and worked for two years as a press aide to President Jimmy Carter.\r\nWhile livi… [+1427 chars]"
+},
+-{
+-"source": {
+"id": "the-wall-street-journal",
+"name": "The Wall Street Journal"
+},
+"author": "Aruna Viswanatha",
+"title": "U.S. Charges Former Twitter Employees With Spying for Saudi Arabia",
+"description": "Justice Department says the two former employees accessed information about people who made posts critical of the Saudi royal family",
+"url": "https://www.wsj.com/articles/justice-department-charges-individuals-for-fraudulently-accessing-twitter-users-private-data-and-providing-info-to-saudi-arabia-11573080810",
+"urlToImage": "https://images.wsj.net/im-124523/social",
+"publishedAt": "2019-11-06T23:24:37Z",
+"content": "The U.S. Justice Department has charged two former \r\nTwitter Inc.\r\n TWTR -0.91%\r\nemployees and a Saudi Arabian national with spying for the Middle East country on some users of the social-media platform who were critical of the kingdom. One former Twitter emp… [+1945 chars]"
+},
+-{
+-"source": {
+"id": "the-wall-street-journal",
+"name": "The Wall Street Journal"
+},
+"author": "Emily Glazer",
+"title": "Google Weighs Changes to Political Ad Policy",
+"description": "Discussions come after Twitter said it would bar most political ads amid spread of misinformation",
+"url": "https://www.wsj.com/articles/google-weighs-changes-to-political-ad-policy-11573081092",
+"urlToImage": "https://images.wsj.net/im-124527/social",
+"publishedAt": "2019-11-06T23:03:49Z",
+"content": "Alphabet Inc.\r\n GOOG -0.02%\r\ns Google is in discussions about changing its political ad policy, according to people familiar with the matter, about a week after \r\nFacebook Inc.\r\n FB -1.43%\r\nand \r\nTwitter Inc.\r\n TWTR -0.91%\r\npublicly diverged on how to handle … [+2185 chars]"
+},
+-{
+-"source": {
+"id": "the-wall-street-journal",
+"name": "The Wall Street Journal"
+},
+"author": "Kathryn Dill",
+"title": "Harvard Business School Dean to Step Down - Wall Street Journal",
+"description": "Head of top-ranked M.B.A. program, Nitin Nohria, plans to leave in June 2020",
+"url": "https://www.wsj.com/articles/harvard-business-school-dean-to-step-down-11573080983",
+"urlToImage": "https://images.wsj.net/im-124513/social",
+"publishedAt": "2019-11-06T22:56:00Z",
+"content": "Harvard Business School announced Wednesday that Dean \r\nNitin Nohria\r\nwill step down in June 2020.Mr. Nohria is the schools 10th dean and has held the position for 10 years. According to a statement posted on Harvard Business Schools website, he will take a s… [+2202 chars]"
+},
+-{
+-"source": {
+"id": "the-new-york-times",
+"name": "The New York Times"
+},
+"author": "Remy Tumin and Marcus Payadue",
+"title": "Kentucky, Saudi Spying, Joe Pesci: Your Wednesday Evening Briefing",
+"description": "Here’s what you need to know at the end of the day.",
+"url": "https://www.nytimes.com/2019/11/06/briefing/kentucky-saudi-spying-joe-pesci.html",
+"urlToImage": "https://static01.nyt.com/images/2019/11/06/briefing/c06PMbriefing-us-ss-promo/06PMbriefing-us-ss-slide-04R6-facebookJumbo.jpg",
+"publishedAt": "2019-11-06T22:53:45Z",
+"content": "10. And finally, photos thataimed to tell a story completely and instantly.\r\nThat was how Sam Falk described his mission. When he joined The Times in 1925, photojournalism was coming into its own. By the time he retired in 1969, pictures had become an essenti… [+646 chars]"
+},
+-{
+-"source": {
+"id": "the-new-york-times",
+"name": "The New York Times"
+},
+"author": "Jeremy W. Peters and Maggie Haberman",
+"title": "Jeff Sessions Will Run to Reclaim Alabama Senate Seat",
+"description": "The former attorney general and four-term senator risks reigniting attacks from President Trump, who could undermine his standing in the primary race.",
+"url": "https://www.nytimes.com/2019/11/06/us/politics/jeff-sessions-senate.html",
+"urlToImage": "https://static01.nyt.com/images/2019/10/29/multimedia/00sessions-HFO/00sessions-HFO-facebookJumbo.jpg",
+"publishedAt": "2019-11-06T22:50:51Z",
+"content": "Alabama Republicans picked Mr. Moore as their nominee in the 2017 special election to fill the seat Mr. Sessions had vacated. But after several women came forward, claiming he had abused them when they were underage, his campaign unraveled. He lost the genera… [+1014 chars]"
+},
+-{
+-"source": {
+"id": "the-new-york-times",
+"name": "The New York Times"
+},
+"author": "Kate Conger and Nicole Perlroth",
+"title": "Former Twitter Employees Charged With Spying for Saudi Arabia",
+"description": "The Justice Department’s charges raised questions about the security of technology companies.",
+"url": "https://www.nytimes.com/2019/11/06/technology/twitter-saudi-arabia-spies.html",
+"urlToImage": "https://static01.nyt.com/images/2019/11/06/business/06twitter-promo/06twitter-promo-facebookJumbo.jpg",
+"publishedAt": "2019-11-06T22:49:08Z",
+"content": "SAN FRANCISCO The Justice Department charged two former Twitter employees on Wednesday with exploiting their access to the companys internal systems to spy for Saudi Arabia, raising questions about the security of technology companies as they grapple with scr… [+587 chars]"
+}
+]
+}
